@@ -1,6 +1,2 @@
 [workspace]
 members = []
-
-
-[profile.release]
-debug = true
